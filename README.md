@@ -1,52 +1,30 @@
-# Operating Systems & Networking
+# Systems & Networking Course
 
-## Purpose
-This course provides a foundation in operating systems and computer networking, with a focus on both understanding and practical application.
+## Overview
+This repository contains my work and labs covering operating systems, networking, and basic infrastructure.
 
----
-
-## Learning Outcomes
-After completing this course, the student will be able to:
-
-### Operating Systems
-- Install and manage operating systems  
-- Work with both command-line (CLI) and graphical interfaces (GUI)  
-- Describe core operating system functions  
-
-### Computer Architecture
-- Describe central concepts of the von Neumann architecture  
-- Explain how hardware and software interact  
-
-### Networking Fundamentals
-- Identify common network hardware and explain their functions  
-- Describe how devices communicate within a network  
-
-### IP & Core Network Services
-- Explain IP addressing  
-- Describe and understand DHCP and DNS  
-- Perform basic firewall configuration  
-
-### Practical Networking
-- Create a basic experimental network  
-- Set up commonly used network services  
-- Describe how systems interact in a network environment  
-
-### DNS Understanding
-- Describe how DNS works  
-- Explain the importance of the DNS system  
-
-### Troubleshooting
-- Apply common troubleshooting methods  
-- Identify and isolate basic system and network issues  
-
----
+## What I learn
+- Install and manage operating systems (CLI & GUI)
+- Understand computer architecture basics
+- Work with network hardware and concepts
+- Configure IP, DNS, DHCP, and basic firewalls
+- Build and test small network environments
+- Apply troubleshooting methods
 
 ## Course Content
-- Introduction to Operating Systems  
-- Operating System Functions  
-- Introduction to Computer Networks  
-- Networking Concepts  
-- Basics of Data Communication  
-- Networking in Practice  
-- Security Aspects  
-- Troubleshooting Methodology  
+1. Introduction to Operating Systems
+2. Windows Operating System
+3. Linux Operating System
+4. Server
+5. VirtualBox
+6. Container
+7. Firewall
+8. Introduction to Networking
+9. Switches, VLAN
+10. TCP/IP, DHCP
+11. Routing
+12. DNS
+13. Documentation and Handover
+
+## Goal
+Build a solid foundation in systems, networking, and practical infrastructure skills.
